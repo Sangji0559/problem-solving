@@ -6,7 +6,6 @@ int main(){
 
     int i,j,sum=0;
     clock_t start = clock();
-
     static int x[4000][4000];
     for(j=0;j<4000;j++){
         for(i=0;i<4000;i++){
